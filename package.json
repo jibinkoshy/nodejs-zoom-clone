@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jibinkoshy/nodejs-zoom-clone/issues"
   },
-  "homepage": "https://github.com/jibinkoshy/nodejs-zoom-clone#readme"
+  "homepage": "https://github.com/jibinkoshy/nodejs-zoom-clone#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
