@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-zoom-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jibinkoshy/nodejs-zoom-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jibinkoshy/nodejs-zoom-clone/issues"
+  },
+  "homepage": "https://github.com/jibinkoshy/nodejs-zoom-clone#readme"
+}
